@@ -1,0 +1,71 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+ .jumbotron{
+ 	background: black url(https://cdn.ppomppu.co.kr/zboard/data3/2016/0414/1460622771_Gb32FuNj7t.jpg) no-repeat ;
+ 	color:white;
+ 	background-size: cover;
+ 	height: 500px;
+ 	text-align: center;
+ 	padding-top: 200px;
+ 	border-top: 1px solid black;
+ }
+.icons a{
+	text-align: center;
+	color:lightgray;
+	padding-right: 15px;
+	padding-top:20px;
+	cursor: pointer;
+}
+.navbar{
+	min-height: 80px;
+}
+h5 {
+	text-align: center;
+	margin:10px;
+}
+h5 .btn{
+	margin-left: 10px;
+}
+h5 .badge{
+	background-color: #f1b83a;
+}
+.cent h1{
+	text-align: center;
+}
+.cent hr{
+	border-top: 3px solid skyblue;
+	width:70px;
+	margin-top: 0;
+}
+.perrow figcaption{
+text-align: left;
+padding-left: 10px;
+background-color: lightgray;
+width:100%;
+font-weight: 500;
+font-size: 24px;
+}
+figure a>img{
+	display:block;
+	margin: 0px 0px 0px 10px;
+}
+.belimg{
+	font-size: 0.85em;
+	text-align: left;
+	font-weight: 300;
+}
+.belimg .btn{
+	font-size: 14px;
+	background-color: lightgray;
+	color:black;
+	padding:2px 5px 1px 3px;
+	border-radius: 0;
+   cursor:pointer;
+   margin-top: 20px;
+
+}
+.belimg a i{
+	padding:5px;
+}
